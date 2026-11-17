@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "Incline push-up",
+    "slug": "incline-push-up",
+    "category": "Push",
+    "level": "Beginner",
+    "pose": "incline",
+    "primary": "Chest, triceps",
+    "secondary": "Front shoulders, serratus anterior, trunk",
+    "cue": "Keep hands on a stable elevated surface; lower your chest toward it while maintaining torso alignment.",
+    "setup": "Choose a firm counter or securely anchored high surface.",
+    "steps": [
+      "Place hands on the edge and step back until body is straight.",
+      "Bend elbows, bringing the chest toward the surface without collapsing through the hips.",
+      "Press away and exhale without bouncing."
+    ],
+    "mistakes": [
+      [
+        "The surface shifts or slides",
+        "Use an immovable surface and test it before putting weight on it."
+      ],
+      [
+        "Hips sag during the descent",
+        "Raise the incline, shorten the set and gently brace the abdomen."
+      ]
+    ],
+    "readiness": "Lower the incline only after smooth, repeatable sets."
+  },
+  {
+    "name": "Push-up",
+    "slug": "push-up",
+    "category": "Push",
+    "level": "Beginner",
+    "pose": "push",
+    "primary": "Chest, triceps",
+    "secondary": "Anterior shoulders, serratus anterior, abdominals",
+    "cue": "Brace the trunk and press through a comfortable, controlled range, without sagging at the hips.",
+    "setup": "Start in a plank with hands slightly wider than or around shoulder width.",
+    "steps": [
+      "Keep head, torso and legs moving as one unit.",
+      "Lower until you reach a comfortable depth, then press through the palms.",
+      "Finish without forcing the elbows past a comfortable position."
+    ],
+    "mistakes": [
+      [
+        "The lower back sinks",
+        "Brace the midsection and use an incline until alignment is controlled."
+      ],
+      [
+        "Elbows flare abruptly and shoulders feel crowded",
+        "Experiment with hand position and a comfortable elbow path."
+      ]
+    ],
+    "readiness": "Aim for several technically consistent reps before using harder leverage."
+  },
+  {
+    "name": "Pike push-up",
+    "slug": "pike-push-up",
+    "category": "Push",
+    "level": "Intermediate",
+    "pose": "pike",
+    "primary": "Shoulders, triceps",
+    "secondary": "Upper chest, serratus anterior, trunk",
+    "cue": "Raise hips and bend elbows to lower the head slightly in front of the hands; press back up with control.",
+    "setup": "Start in a pike position, hips high and hands planted on a nonslip floor.",
+    "steps": [
+      "Shift a manageable share of weight into the hands.",
+      "Bend the arms to lower the head toward a point slightly ahead of the hands.",
+      "Press the floor away to return to the pike without a rushed neck movement."
+    ],
+    "mistakes": [
+      [
+        "Head descends straight between the hands with neck strain",
+        "Use a smaller range and position your gaze between hands."
+      ],
+      [
+        "Hips drop and movement becomes a floor push-up",
+        "Maintain a pike shape or regress to incline pressing."
+      ]
+    ],
+    "readiness": "Progress when shoulder comfort and balance are repeatable."
+  },
+  {
+    "name": "Wall handstand hold",
+    "slug": "wall-handstand-hold",
+    "category": "Balance",
+    "level": "Intermediate",
+    "pose": "handstand",
+    "primary": "Shoulders, triceps",
+    "secondary": "Serratus anterior, trunk, glutes",
+    "cue": "Use a clear wall, careful entry and a safe exit; maintain active shoulders during brief controlled holds.",
+    "setup": "Clear the wall and floor; learn how to return safely to the ground first.",
+    "steps": [
+      "Enter a wall-assisted inversion with a suitable, controlled method.",
+      "Press firmly through the hands and keep breathing during a brief hold.",
+      "Exit intentionally rather than waiting for fatigue to cause a fall."
+    ],
+    "mistakes": [
+      [
+        "Kicking up without an exit plan",
+        "Use supervised practice or return to pike holds."
+      ],
+      [
+        "Excessive lower-back arching",
+        "Reduce hold time and gently align ribs over pelvis."
+      ]
+    ],
+    "readiness": "Only increase duration if wrist comfort, shoulder control and exit remain reliable."
+  },
+  {
+    "name": "Bodyweight squat",
+    "slug": "bodyweight-squat",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "squat",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Adductors, calf muscles, trunk",
+    "cue": "Stand with steady foot contact; sit between the hips to a comfortable depth and rise with control.",
+    "setup": "Stand at a comfortable stance width with feet planted.",
+    "steps": [
+      "Bend hips and knees together, allowing knees to move naturally with the feet.",
+      "Lower only as far as you can control with steady foot contact.",
+      "Stand tall without bouncing or forcing the knees."
+    ],
+    "mistakes": [
+      [
+        "Heels repeatedly lift due to lost balance",
+        "Adjust stance and use a higher squat target."
+      ],
+      [
+        "Dropping rapidly into the bottom",
+        "Use a controlled speed and reduce range while learning."
+      ]
+    ],
+    "readiness": "Increase depth or repetitions only while balance and joint comfort remain good."
+  },
+  {
+    "name": "Reverse lunge",
+    "slug": "reverse-lunge",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "lunge",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Adductors, calf muscles, trunk",
+    "cue": "Step backward and lower through a comfortable range, then return without losing balance.",
+    "setup": "Stand tall near a stable support if balance is uncertain.",
+    "steps": [
+      "Step one foot back to a comfortable staggered stance.",
+      "Bend both knees and lower vertically as far as you can control.",
+      "Push through the front foot to return and switch sides."
+    ],
+    "mistakes": [
+      [
+        "The back step is too narrow, causing wobbling",
+        "Place feet a little wider side-to-side and use a support."
+      ],
+      [
+        "The front knee collapses inward abruptly",
+        "Move slowly and find a foot and hip alignment you can control."
+      ]
+    ],
+    "readiness": "Build reliable balance on both sides before adding range."
+  },
+  {
+    "name": "Glute bridge",
+    "slug": "glute-bridge",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "bridge",
+    "primary": "Gluteals",
+    "secondary": "Hamstrings, trunk",
+    "cue": "Press through planted feet and raise hips using glutes, avoiding excessive lower-back arch.",
+    "setup": "Lie on your back with knees bent and feet on the floor.",
+    "steps": [
+      "Position feet where you can press evenly through them.",
+      "Raise the hips by squeezing the glutes, keeping the ribs controlled.",
+      "Lower slowly without dropping the pelvis."
+    ],
+    "mistakes": [
+      [
+        "Lower back does most of the movement",
+        "Reduce height and think of extending at the hips rather than arching."
+      ],
+      [
+        "Feet are so far away that hamstrings cramp",
+        "Move feet a little closer and reduce the hold."
+      ]
+    ],
+    "readiness": "Progress once pelvis remains level and the movement is comfortable."
+  },
+  {
+    "name": "Dead bug",
+    "slug": "dead-bug",
+    "category": "Core",
+    "level": "Beginner",
+    "pose": "deadbug",
+    "primary": "Deep abdominal wall, rectus abdominis",
+    "secondary": "Hip flexors, shoulder stabilizers",
+    "cue": "Keep ribs and pelvis controlled as an opposite arm and leg extend slowly.",
+    "setup": "Lie on your back, arms up and hips and knees bent.",
+    "steps": [
+      "Exhale gently to settle ribs and pelvis into a stable position.",
+      "Slowly lower an opposite arm and leg only as far as you can control.",
+      "Return, pause and alternate sides while breathing."
+    ],
+    "mistakes": [
+      [
+        "Lower back arches when the leg extends",
+        "Shorten the reach or move the arms and legs separately."
+      ],
+      [
+        "Repetitions become fast and uncontrolled",
+        "Use fewer reps with a brief pause on every reach."
+      ]
+    ],
+    "readiness": "Extend farther only when rib/pelvis control is consistent."
+  },
+  {
+    "name": "Hollow body hold",
+    "slug": "hollow-body-hold",
+    "category": "Core",
+    "level": "Intermediate",
+    "pose": "hollow",
+    "primary": "Rectus abdominis, obliques",
+    "secondary": "Hip flexors, anterior trunk stabilizers",
+    "cue": "Brace and only extend arms or legs as far as you can without your lower back arching.",
+    "setup": "Lie on your back and begin with knees tucked.",
+    "steps": [
+      "Gently tuck the pelvis to limit lower-back arching.",
+      "Lift head/shoulders only if comfortable, then extend limbs to a controllable position.",
+      "Breathe through a short hold; reset when posture changes."
+    ],
+    "mistakes": [
+      [
+        "Low back arches as legs lower",
+        "Tuck the knees or raise legs higher."
+      ],
+      [
+        "Holding breath to maintain tension",
+        "Shorten duration and breathe calmly."
+      ]
+    ],
+    "readiness": "Increase lever length before chasing long holds."
+  },
+  {
+    "name": "Active hang",
+    "slug": "active-hang",
+    "category": "Pull",
+    "level": "Beginner",
+    "pose": "hang",
+    "primary": "Lower trapezius, shoulder girdle stabilizers",
+    "secondary": "Grip/forearms, latissimus dorsi",
+    "cue": "Use a secure bar; support some weight with feet as needed while engaging shoulders gently.",
+    "setup": "Use a properly secured bar with a clear area below.",
+    "steps": [
+      "Hold the bar with feet supported if full body weight is too demanding.",
+      "Gently engage the shoulders without aggressively pulling the body upward.",
+      "Release under control and return feet to the ground."
+    ],
+    "mistakes": [
+      [
+        "Dropping straight into a painful passive shoulder position",
+        "Use foot support and a smaller comfortable shoulder movement."
+      ],
+      [
+        "Grip fails unexpectedly",
+        "Keep feet close to support and reduce duration."
+      ]
+    ],
+    "readiness": "Increase load or hold time only if shoulders and grip stay comfortable."
+  },
+  {
+    "name": "Assisted pull-up",
+    "slug": "assisted-pull-up",
+    "category": "Pull",
+    "level": "Intermediate",
+    "pose": "pull",
+    "primary": "Latissimus dorsi, upper back, elbow flexors",
+    "secondary": "Forearms, trunk",
+    "cue": "Use reliable assistance to pull without swinging and lower under control.",
+    "setup": "Choose stable foot support or reliable assistance under a rated bar.",
+    "steps": [
+      "Start with shoulders engaged and keep the body relatively quiet.",
+      "Pull toward the bar while assistance takes part of the load.",
+      "Lower slowly and reset with support before fatigue distorts posture."
+    ],
+    "mistakes": [
+      [
+        "Assistance is unstable or poorly attached",
+        "Use a stable foot-assisted method or rated equipment."
+      ],
+      [
+        "Kicking legs to finish reps",
+        "Increase assistance until the pull is controlled."
+      ]
+    ],
+    "readiness": "Reduce assistance when both upward and downward phases are repeatable."
+  },
+  {
+    "name": "Pull-up",
+    "slug": "pull-up",
+    "category": "Pull",
+    "level": "Intermediate",
+    "pose": "pull",
+    "primary": "Latissimus dorsi, upper back, elbow flexors",
+    "secondary": "Forearms, trunk, scapular stabilizers",
+    "cue": "From a controlled hang, pull toward the bar without kicking, then lower smoothly.",
+    "setup": "Use a secure overhead bar with a comfortable grip.",
+    "steps": [
+      "Begin with a controlled hanging shoulder position.",
+      "Pull through elbows toward ribs while keeping legs quiet.",
+      "Lower under control to a safe finish; avoid a forced dead hang if uncomfortable."
+    ],
+    "mistakes": [
+      [
+        "Using a pronounced swing to cross the bar",
+        "Reduce difficulty with assistance and smaller controlled sets."
+      ],
+      [
+        "Neck cranes excessively to reach chin height",
+        "Keep neck neutral and focus on a reproducible range."
+      ]
+    ],
+    "readiness": "Add repetitions only while the same smooth range is maintained."
+  },
+  {
+    "name": "Dip",
+    "slug": "dip",
+    "category": "Push",
+    "level": "Intermediate",
+    "pose": "dip",
+    "primary": "Triceps, chest",
+    "secondary": "Anterior shoulders, shoulder girdle stabilizers",
+    "cue": "Use stable bars and a comfortable range; lower under control and press to support.",
+    "setup": "Use stable parallel bars, with feet supported if necessary.",
+    "steps": [
+      "Begin in a controlled support hold, with shoulders comfortable.",
+      "Bend elbows to lower only to a range your shoulders tolerate.",
+      "Press up steadily without bouncing or forcing extra depth."
+    ],
+    "mistakes": [
+      [
+        "Forcing an unusually deep bottom position",
+        "Use less depth or assisted dips and monitor shoulder comfort."
+      ],
+      [
+        "Dropping into the lowering phase",
+        "Slow the descent or return to support holds."
+      ]
+    ],
+    "readiness": "Do not progress to unassisted dips until support and range are controlled."
+  },
+  {
+    "name": "L-sit tuck",
+    "slug": "l-sit-tuck",
+    "category": "Core",
+    "level": "Intermediate",
+    "pose": "lsit",
+    "primary": "Hip flexors, abdominal wall",
+    "secondary": "Triceps, shoulder stabilizers",
+    "cue": "On secure parallettes, press through arms and lift bent knees while maintaining trunk tension.",
+    "setup": "Use securely supported parallettes or suitable bars.",
+    "steps": [
+      "Press into handles and lift shoulders away from them.",
+      "Bring bent knees toward chest while keeping trunk active.",
+      "Hold briefly with controlled breathing, then lower feet."
+    ],
+    "mistakes": [
+      [
+        "Shoulders collapse toward ears during hold",
+        "Use a shorter hold or toe-assisted support."
+      ],
+      [
+        "Fighting for straight legs too early",
+        "Maintain a compact tuck until basic support is reliable."
+      ]
+    ],
+    "readiness": "Progress by extending one knee at a time while keeping support stable."
+  },
+  {
+    "name": "Pistol squat",
+    "slug": "pistol-squat",
+    "category": "Legs",
+    "level": "Advanced",
+    "pose": "pistol",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Adductors, calf muscles, trunk",
+    "cue": "Use only a controllable single-leg depth; hold secure support if balance or mobility is limiting.",
+    "setup": "Use a clear floor and hold secure support if needed.",
+    "steps": [
+      "Balance on one foot and extend the other leg comfortably.",
+      "Lower in a controlled single-leg squat only as far as balance allows.",
+      "Stand without bouncing or twisting through discomfort."
+    ],
+    "mistakes": [
+      [
+        "Forcing depth despite heel lifting or wobbling",
+        "Use a box target and a support while building range."
+      ],
+      [
+        "Knee or hip pain is ignored",
+        "Stop and choose a comfortable supported alternative; seek advice if symptoms persist."
+      ]
+    ],
+    "readiness": "Choose more depth only after comfortable, repeatable control."
+  },
+  {
+    "name": "Wall push-up",
+    "slug": "wall-push-up",
+    "category": "Push",
+    "level": "Beginner",
+    "pose": "wallpush",
+    "primary": "Chest, triceps",
+    "secondary": "Anterior shoulders, serratus anterior",
+    "cue": "Place hands against a stable wall and lower chest toward it; step closer to reduce load.",
+    "setup": "Face a solid wall and place hands around chest or shoulder height.",
+    "steps": [
+      "Step back to a distance you can manage.",
+      "Bend elbows and bring the chest toward the wall without sagging.",
+      "Press away, maintaining steady foot contact."
+    ],
+    "mistakes": [
+      [
+        "Standing too far away and losing control",
+        "Move feet closer and reduce body angle."
+      ],
+      [
+        "Rushing the return by bouncing off the wall",
+        "Use a steady pace and softer contact."
+      ]
+    ],
+    "readiness": "Step farther away or try a safe high incline when ready."
+  },
+  {
+    "name": "Knee push-up",
+    "slug": "knee-push-up",
+    "category": "Push",
+    "level": "Beginner",
+    "pose": "kneepush",
+    "primary": "Chest, triceps",
+    "secondary": "Anterior shoulders, trunk",
+    "cue": "Support knees and hands, keeping shoulders, hips and knees approximately aligned.",
+    "setup": "Kneel on a comfortable mat and place hands slightly ahead of shoulders.",
+    "steps": [
+      "Align shoulders, hips and knees in a strong line.",
+      "Lower chest toward the floor within a comfortable range.",
+      "Press up without bending sharply at the waist."
+    ],
+    "mistakes": [
+      [
+        "Hips stay high while only the head lowers",
+        "Move trunk and hips together or use an incline."
+      ],
+      [
+        "Hands move too far forward and shoulders become uncomfortable",
+        "Bring hands beneath a workable shoulder line."
+      ]
+    ],
+    "readiness": "Progress to shorter sets of floor push-ups or lower inclines."
+  },
+  {
+    "name": "Decline push-up",
+    "slug": "decline-push-up",
+    "category": "Push",
+    "level": "Intermediate",
+    "pose": "decline",
+    "primary": "Chest, triceps",
+    "secondary": "Anterior shoulders, serratus anterior, trunk",
+    "cue": "Place feet on a low secure step; press with controlled torso alignment.",
+    "setup": "Put feet on a low, non-slip, stable step.",
+    "steps": [
+      "Set hands securely on the floor with trunk braced.",
+      "Lower chest toward the floor while resisting hip sag.",
+      "Press away; dismount carefully from the raised position."
+    ],
+    "mistakes": [
+      [
+        "Step slides or feet lose contact",
+        "Use a lower secure platform or return to floor push-ups."
+      ],
+      [
+        "Lower back arches as fatigue accumulates",
+        "Shorten the set and reduce elevation."
+      ]
+    ],
+    "readiness": "Only increase elevation if current form and shoulder comfort stay reliable."
+  },
+  {
+    "name": "Dip support hold",
+    "slug": "dip-support-hold",
+    "category": "Push",
+    "level": "Intermediate",
+    "pose": "dip",
+    "primary": "Triceps, shoulder stabilizers",
+    "secondary": "Chest, serratus anterior, forearms",
+    "cue": "Support yourself on stable parallel bars with controlled shoulders and elbows.",
+    "setup": "Place hands on securely mounted parallel bars.",
+    "steps": [
+      "Press up to a supported position with feet ready to assist.",
+      "Hold with shoulders stable and breath relaxed.",
+      "Come down slowly with the aid of feet when possible."
+    ],
+    "mistakes": [
+      [
+        "Shrugging or trembling uncontrollably at the top",
+        "Use foot support to reduce demand."
+      ],
+      [
+        "Trying long holds despite wrist discomfort",
+        "Shorten the holds or choose a different pressing support."
+      ]
+    ],
+    "readiness": "Add brief controlled dip motion only after support feels stable."
+  },
+  {
+    "name": "Assisted dip",
+    "slug": "assisted-dip",
+    "category": "Push",
+    "level": "Intermediate",
+    "pose": "dip",
+    "primary": "Triceps, chest",
+    "secondary": "Anterior shoulders, shoulder stabilizers",
+    "cue": "Use foot support and lower only through a comfortable range.",
+    "setup": "Use stable bars and predictable foot assistance.",
+    "steps": [
+      "Start from a comfortable supported position.",
+      "Lower through a modest range while keeping assistance steady.",
+      "Press up smoothly, then reset with feet."
+    ],
+    "mistakes": [
+      [
+        "Assistance disappears at the hardest point",
+        "Keep support consistent across the entire repetition."
+      ],
+      [
+        "Shoulders are forced far below elbows",
+        "Use a shallower pain-free range."
+      ]
+    ],
+    "readiness": "Reduce assistance only when all repetitions look alike."
+  },
+  {
+    "name": "Scapular pull-up",
+    "slug": "scapular-pull-up",
+    "category": "Pull",
+    "level": "Beginner",
+    "pose": "hang",
+    "primary": "Lower trapezius, latissimus dorsi",
+    "secondary": "Forearms, serratus anterior, upper back",
+    "cue": "From a supported hang, move shoulder blades slightly without bending elbows substantially.",
+    "setup": "Grip a secure bar with feet supported when needed.",
+    "steps": [
+      "Keep elbows mostly straight while initiating movement from shoulder blades.",
+      "Move body a small distance by drawing shoulders down and toward stability.",
+      "Relax back to starting position without dropping abruptly."
+    ],
+    "mistakes": [
+      [
+        "Large arm bend turns the drill into a partial pull-up",
+        "Use less effort and think small shoulder movement."
+      ],
+      [
+        "Shoulders are pushed painfully into end range",
+        "Shorten range and add foot support."
+      ]
+    ],
+    "readiness": "Build repeatable small-range scapular control before more demanding hangs."
+  },
+  {
+    "name": "Band-assisted pull-up",
+    "slug": "band-assisted-pull-up",
+    "category": "Pull",
+    "level": "Intermediate",
+    "pose": "pull",
+    "primary": "Latissimus dorsi, upper back, elbow flexors",
+    "secondary": "Forearms, trunk",
+    "cue": "Use a securely attached band appropriate for your body weight and pull with control.",
+    "setup": "Attach a suitable band to a properly rated bar; follow band safety guidance.",
+    "steps": [
+      "Use a stable way to load the assistance without snap-back risk.",
+      "Pull smoothly with the band helping the hard part.",
+      "Lower under control and safely step out."
+    ],
+    "mistakes": [
+      [
+        "Band is frayed, misattached or can recoil unexpectedly",
+        "Replace the band or use foot-assisted pull-ups."
+      ],
+      [
+        "Bouncing against elastic assistance",
+        "Pause briefly and control the lowering phase."
+      ]
+    ],
+    "readiness": "Transition to a lighter band only after consistent reps."
+  },
+  {
+    "name": "Negative pull-up",
+    "slug": "negative-pull-up",
+    "category": "Pull",
+    "level": "Intermediate",
+    "pose": "pull",
+    "primary": "Latissimus dorsi, upper back, elbow flexors",
+    "secondary": "Forearms, scapular stabilizers",
+    "cue": "Safely reach the top using a stable platform and lower in a slow, supported manner.",
+    "setup": "Use a secure bar and a stable step to reach the high position.",
+    "steps": [
+      "Start above the bar without jumping into an unstable catch.",
+      "Lower with controlled speed through a safe range.",
+      "Use the step to return to the start instead of repeated max-effort jumps."
+    ],
+    "mistakes": [
+      [
+        "Jumping to the top and swinging",
+        "Start from a proper platform or use assistance."
+      ],
+      [
+        "Trying to lower so slowly that control collapses",
+        "Shorten the time and end the set sooner."
+      ]
+    ],
+    "readiness": "Lengthen the lowering phase only if you control the whole descent."
+  },
+  {
+    "name": "Chin-up",
+    "slug": "chin-up",
+    "category": "Pull",
+    "level": "Intermediate",
+    "pose": "pull",
+    "primary": "Latissimus dorsi, biceps brachii",
+    "secondary": "Upper back, forearms, trunk",
+    "cue": "Use palms-facing grip on a secure bar; pull and lower without swinging.",
+    "setup": "Use a comfortable palms-toward-you grip on a secure bar.",
+    "steps": [
+      "Start from an appropriate, stable hang.",
+      "Pull elbows down as body rises toward the bar.",
+      "Lower smoothly without swinging or forcing a painful elbow position."
+    ],
+    "mistakes": [
+      [
+        "Wrists twist uncomfortably to hold grip",
+        "Adjust grip width or use neutral-grip equipment if available."
+      ],
+      [
+        "Kicking the legs to reach the bar",
+        "Use assistance and focus on smooth, quiet repetitions."
+      ]
+    ],
+    "readiness": "Build reliable reps before adding load."
+  },
+  {
+    "name": "Inverted row",
+    "slug": "inverted-row",
+    "category": "Pull",
+    "level": "Beginner",
+    "pose": "row",
+    "primary": "Rhomboids, middle trapezius, latissimus dorsi",
+    "secondary": "Biceps, rear shoulders, trunk",
+    "cue": "With a safely rated bar, keep torso aligned while pulling chest toward the support.",
+    "setup": "Set a reliably anchored bar at a suitable height.",
+    "steps": [
+      "Hold bar and lean back with feet supported.",
+      "Pull chest toward hands while keeping pelvis and ribs aligned.",
+      "Lower to straight arms without suddenly dropping the shoulders."
+    ],
+    "mistakes": [
+      [
+        "Using an unstable bar or non-rated furniture",
+        "Choose properly anchored exercise equipment."
+      ],
+      [
+        "Hips sag into an arch",
+        "Raise the body angle or shorten the set."
+      ]
+    ],
+    "readiness": "Walk feet forward only once technique is stable at a higher angle."
+  },
+  {
+    "name": "Ring row",
+    "slug": "ring-row",
+    "category": "Pull",
+    "level": "Intermediate",
+    "pose": "ringrow",
+    "primary": "Middle back, latissimus dorsi",
+    "secondary": "Biceps, rear shoulders, trunk",
+    "cue": "Anchor rings properly, lean backward and pull handles toward your ribs.",
+    "setup": "Use correctly rated rings and verified anchors.",
+    "steps": [
+      "Lean back with a straight body and feet firmly planted.",
+      "Pull rings toward ribs, letting the arms follow a comfortable path.",
+      "Lower slowly while preventing straps from swinging."
+    ],
+    "mistakes": [
+      [
+        "Straps are uneven or anchor is suspect",
+        "Check both before loading and stop if uncertain."
+      ],
+      [
+        "Shrugging shoulders up to ears at the top",
+        "Reduce angle and aim for a smooth pull."
+      ]
+    ],
+    "readiness": "Become more horizontal only after repeatable stable reps."
+  },
+  {
+    "name": "Chair squat",
+    "slug": "chair-squat",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "squat",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Trunk, adductors",
+    "cue": "Sit gently toward a stable chair and rise without collapsing.",
+    "setup": "Use a sturdy, unmoving chair behind you.",
+    "steps": [
+      "Stand with feet comfortably apart.",
+      "Send hips back and bend knees to gently touch the seat.",
+      "Stand up with steady feet without dropping onto the chair."
+    ],
+    "mistakes": [
+      [
+        "Falling heavily onto the chair",
+        "Use a higher seat or support until lowering is controlled."
+      ],
+      [
+        "Rocking far forward before standing",
+        "Position feet and trunk for a controlled rise."
+      ]
+    ],
+    "readiness": "Lower the target or try free squats when reps are easy and stable."
+  },
+  {
+    "name": "Split squat",
+    "slug": "split-squat",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "lunge",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Adductors, trunk",
+    "cue": "Keep a stable staggered stance and lower vertically through comfortable range.",
+    "setup": "Stand with one foot forward and one back at a width that feels stable.",
+    "steps": [
+      "Keep feet in place and lower by bending both knees.",
+      "Use a comfortable range and steady upright torso.",
+      "Press into the front leg to return, then swap sides."
+    ],
+    "mistakes": [
+      [
+        "Feet form a tightrope, making balance unreliable",
+        "Widen your stance or hold a rail."
+      ],
+      [
+        "Back heel position forces ankle discomfort",
+        "Adjust stride length and use a more comfortable depth."
+      ]
+    ],
+    "readiness": "Progress through range and sets before trying dynamic lunges."
+  },
+  {
+    "name": "Step-up",
+    "slug": "step-up",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "stepup",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Calf muscles, trunk",
+    "cue": "Stand onto a stable low step without bouncing from the trailing leg.",
+    "setup": "Choose a low step that cannot tip or slide.",
+    "steps": [
+      "Place a foot fully on the step.",
+      "Press through the elevated leg to rise while keeping the pelvis controlled.",
+      "Step down slowly instead of hopping."
+    ],
+    "mistakes": [
+      [
+        "Pushing off strongly from the trailing foot",
+        "Use a lower step and focus on leading-leg control."
+      ],
+      [
+        "Step height forces hip hiking",
+        "Reduce the height until ascent stays smooth."
+      ]
+    ],
+    "readiness": "Add height sparingly after balanced reps on both legs."
+  },
+  {
+    "name": "Single-leg glute bridge",
+    "slug": "single-leg-glute-bridge",
+    "category": "Legs",
+    "level": "Intermediate",
+    "pose": "bridge",
+    "primary": "Gluteals",
+    "secondary": "Hamstrings, trunk",
+    "cue": "Lift hips from one planted foot, keeping pelvis level and movement controlled.",
+    "setup": "Lie supine with one foot planted and the other leg raised comfortably.",
+    "steps": [
+      "Brace ribs and maintain a level pelvis.",
+      "Press through planted foot to lift hips with the glutes.",
+      "Lower gently and compare both sides."
+    ],
+    "mistakes": [
+      [
+        "Pelvis rotates sharply when lifting",
+        "Use two-leg bridges until you can control the hips."
+      ],
+      [
+        "Lower back arches to gain height",
+        "Use smaller hip extension and a deliberate pause."
+      ]
+    ],
+    "readiness": "Increase hold time only without pelvis twisting."
+  },
+  {
+    "name": "Calf raise",
+    "slug": "calf-raise",
+    "category": "Legs",
+    "level": "Beginner",
+    "pose": "calf",
+    "primary": "Gastrocnemius, soleus",
+    "secondary": "Foot and ankle stabilizers",
+    "cue": "Rise onto toes slowly, then lower under control with a stable support if needed.",
+    "setup": "Stand on a stable floor near a fixed support.",
+    "steps": [
+      "Rise onto the balls of the feet without rolling outward.",
+      "Pause briefly at a comfortable high point.",
+      "Lower heels at a controlled pace."
+    ],
+    "mistakes": [
+      [
+        "Bouncing rather than controlling the lowering phase",
+        "Slow down and reduce repetitions."
+      ],
+      [
+        "Ankles roll outward at the top",
+        "Use hand support and a smaller range."
+      ]
+    ],
+    "readiness": "Try one-leg variations after steady bilateral work."
+  },
+  {
+    "name": "Supported single-leg squat",
+    "slug": "supported-single-leg-squat",
+    "category": "Legs",
+    "level": "Intermediate",
+    "pose": "pistol",
+    "primary": "Quadriceps, gluteals",
+    "secondary": "Adductors, calf muscles, trunk",
+    "cue": "Hold a secure support while lowering onto one leg to a comfortable height.",
+    "setup": "Hold a fixed sturdy support and stand on one leg.",
+    "steps": [
+      "Bend the standing hip and knee as you sit toward a safe target.",
+      "Use support to control balance and depth rather than to yank upward.",
+      "Stand back up with steady foot contact."
+    ],
+    "mistakes": [
+      [
+        "Support is loose or moves under load",
+        "Choose a fixed rail or stable structure."
+      ],
+      [
+        "Standing knee buckles inward as balance is lost",
+        "Reduce depth and use more support."
+      ]
+    ],
+    "readiness": "Gradually use less assistance after controlled repetitions."
+  },
+  {
+    "name": "Bird dog",
+    "slug": "bird-dog",
+    "category": "Core",
+    "level": "Beginner",
+    "pose": "birddog",
+    "primary": "Spinal extensors, abdominal stabilizers",
+    "secondary": "Gluteals, shoulders",
+    "cue": "On hands and knees, extend opposite limbs without rotating the trunk.",
+    "setup": "Start on hands and knees on a comfortable surface.",
+    "steps": [
+      "Brace gently while keeping pelvis roughly level.",
+      "Extend opposite arm and leg without rotating the torso.",
+      "Return and alternate sides with a brief controlled pause."
+    ],
+    "mistakes": [
+      [
+        "Leg raises too high, arching the lower back",
+        "Reach long rather than high."
+      ],
+      [
+        "Pelvis rotates during the reach",
+        "Shorten the extension and move slowly."
+      ]
+    ],
+    "readiness": "Increase reach or hold length only after the trunk remains steady."
+  },
+  {
+    "name": "Forearm plank",
+    "slug": "forearm-plank",
+    "category": "Core",
+    "level": "Beginner",
+    "pose": "plank",
+    "primary": "Abdominal wall, obliques",
+    "secondary": "Shoulders, gluteals, spinal stabilizers",
+    "cue": "Brace your trunk while breathing naturally, keeping elbows under shoulders.",
+    "setup": "Set elbows under shoulders and legs at a manageable distance.",
+    "steps": [
+      "Gently brace ribs toward pelvis and keep breathing.",
+      "Hold a steady, comfortable body line.",
+      "Finish before hips sag or shoulders lose position."
+    ],
+    "mistakes": [
+      [
+        "Holding the breath for the full duration",
+        "Choose a shorter hold and breathe quietly."
+      ],
+      [
+        "Hips sink as fatigue builds",
+        "Switch to knees or shorter sets."
+      ]
+    ],
+    "readiness": "Build quality time before trying harder leverage."
+  },
+  {
+    "name": "Side plank",
+    "slug": "side-plank",
+    "category": "Core",
+    "level": "Intermediate",
+    "pose": "sideplank",
+    "primary": "Obliques, lateral trunk stabilizers",
+    "secondary": "Shoulder stabilizers, gluteus medius",
+    "cue": "Support on one forearm and knee or foot, keeping hips level.",
+    "setup": "Place one forearm on the floor and stack or bend knees.",
+    "steps": [
+      "Lift the hips to make a stable line from shoulder to hips.",
+      "Maintain level breathing while the supporting shoulder remains comfortable.",
+      "Lower under control, then repeat on other side."
+    ],
+    "mistakes": [
+      [
+        "Supporting shoulder feels pinched or unstable",
+        "Try a bent-knee version or another lateral-core drill."
+      ],
+      [
+        "Hips rotate toward floor",
+        "Shorten the hold and line up shoulders and pelvis."
+      ]
+    ],
+    "readiness": "Progress from bent knees to straight legs once control is reliable."
+  },
+  {
+    "name": "Bear crawl hold",
+    "slug": "bear-crawl-hold",
+    "category": "Core",
+    "level": "Beginner",
+    "pose": "bear",
+    "primary": "Abdominal wall, shoulder stabilizers",
+    "secondary": "Quadriceps, hip flexors",
+    "cue": "Hover knees slightly with hands and feet on the floor while keeping trunk steady.",
+    "setup": "Place hands below shoulders and knees below hips.",
+    "steps": [
+      "Curl toes under and brace gently.",
+      "Hover knees a few centimeters above the ground while breathing.",
+      "Lower knees before trunk control breaks down."
+    ],
+    "mistakes": [
+      [
+        "Knees rise too high and back rounds sharply",
+        "Use a lower hover and shorter holds."
+      ],
+      [
+        "Shoulders creep toward ears",
+        "Push the floor away without locking the neck."
+      ]
+    ],
+    "readiness": "Progress to small steps only when the hold is stable."
+  },
+  {
+    "name": "Pike hold",
+    "slug": "pike-hold",
+    "category": "Balance",
+    "level": "Beginner",
+    "pose": "pike",
+    "primary": "Shoulder stabilizers, triceps",
+    "secondary": "Trunk, upper back",
+    "cue": "Put hands on floor and lift hips, distributing weight carefully through arms.",
+    "setup": "Place hands on the floor with knees bent if needed.",
+    "steps": [
+      "Lift hips so the torso forms a manageable inverted V.",
+      "Gradually shift some weight through the arms.",
+      "Step out carefully while keeping balance and breathing."
+    ],
+    "mistakes": [
+      [
+        "Forcing heels to the floor at the expense of shoulders",
+        "Bend knees and focus on stable upper-body support."
+      ],
+      [
+        "Loading wrists too quickly",
+        "Reduce angle and duration; prepare gradually."
+      ]
+    ],
+    "readiness": "Consider a slightly steeper pike or wall preparation after good control."
+  },
+  {
+    "name": "Single-leg balance",
+    "slug": "single-leg-balance",
+    "category": "Balance",
+    "level": "Beginner",
+    "pose": "balance",
+    "primary": "Foot and ankle stabilizers",
+    "secondary": "Gluteus medius, trunk",
+    "cue": "Stand steadily on one leg and lightly use a wall for balance as needed.",
+    "setup": "Stand beside a wall or rail for optional support.",
+    "steps": [
+      "Shift weight onto one foot without twisting.",
+      "Lift the other foot slightly and maintain relaxed breathing.",
+      "Lower and repeat on the other side."
+    ],
+    "mistakes": [
+      [
+        "Locking the knee forcefully to feel stable",
+        "Keep a comfortable, soft standing-leg position."
+      ],
+      [
+        "Taking support away too early",
+        "Use light fingertip contact while balance develops."
+      ]
+    ],
+    "readiness": "Extend time or gently move arms after stable holds."
+  }
+]
